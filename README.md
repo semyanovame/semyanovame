@@ -1,16 +1,36 @@
-## Hi there 👋
+# Маргарита Семьянова
 
-<!--
-**semyanovame/semyanovame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# / .NET разработчик, стажёр или джуниор. Открыта к предложениям.
 
-Here are some ideas to get you started:
+## Контакты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](https://t.me/rimoondust)
+[Email](mailto:suboannto@gmail.com)
+[GitHub](https://github.com/semyanovame)
+
+## Стек
+
+C#, WPF, SQL, Entity Framework, SQLite, MS SQL, Git, HTML, CSS, Python, C++
+
+## Английский
+
+B1. Читаю техническую документацию, пишу комментарии к коду.
+
+## Проекты
+
+### Аудиоредактор
+Десктопное приложение на C# и WPF. MVVM, два сервиса: работа с базой данных SQLite через Entity Framework и обработка звука. Самостоятельно написана математика обработки звуковой волны и визуализация сигнала.
+
+### Библиотека игровых предметов
+Десктопное приложение на C# и WPF. MVVM, поиск по названию и фильтрация по параметрам. Данные в SQLite, доступ через Entity Framework и LINQ.
+
+### Система управления кофейными плантациями
+Полный цикл от технического задания до реализации. База данных для учёта поставок с плантаций в производство. Приложение-справочник на C#.
+
+## Что я ищу
+
+Стажировку или позицию джуниора в команде с наставником. Интересны сложные задачи, где можно расти. Рассматриваю офис, гибрид и удалёнку.
+
+## Обо мне
+
+Учусь на третьем курсе колледжа по специальности «Информационные системы и программирование». Люблю когда код структурирован и его легко читать
