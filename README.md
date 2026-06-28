@@ -10,7 +10,18 @@ C# / .NET разработчик, стажёр или джуниор. Откры
 
 ## Стек
 
-C#, WPF, SQL, Entity Framework, SQLite, MS SQL, Git, HTML, CSS, Python, C++
+![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-333?style=for-the-badge&logo=dotnet)
+![WPF](https://img.shields.io/badge/-WPF-333?style=for-the-badge&logo=windows)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-333?style=for-the-badge&logo=microsoftsqlserver)
+![Entity Framework](https://img.shields.io/badge/-EF%20Core-333?style=for-the-badge&logo=dotnet)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus)
 
 ## Английский
 
