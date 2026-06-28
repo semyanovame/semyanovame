@@ -4,9 +4,9 @@ C# / .NET разработчик, стажёр или джуниор. Откры
 
 ## Контакты
 
-[Telegram](https://t.me/rimoondust)
-[Email](mailto:suboannto@gmail.com)
-[GitHub](https://github.com/semyanovame)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rimoondust)
+[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:suboannto@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/semyanovame)
 
 ## Стек
 
